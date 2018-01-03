@@ -3,7 +3,7 @@ def say_hello(name)
  if (name){
    puts "Hello " + name + "!"
  } 
- else {
+ else if {
    puts "Hello Ruby Programmer!"
  }
 end
