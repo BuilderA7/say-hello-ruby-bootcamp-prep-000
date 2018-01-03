@@ -1,9 +1,9 @@
 # Build your say_hello method here
 def say_hello(name)
- while (name){
+ if (name){
    puts "Hello " + name + "!"
  } 
- else if {
+ else {
    puts "Hello Ruby Programmer!"
  }
 end
